@@ -7,6 +7,10 @@
 		{
 			"Name": "AndroidCamera",
 			"Enabled": true
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
 		}
 	]
 }
