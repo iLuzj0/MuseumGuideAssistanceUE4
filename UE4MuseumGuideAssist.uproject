@@ -3,14 +3,21 @@
 	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
+	"Modules": [
 		{
-			"Name": "AndroidCamera",
-			"Enabled": true
-		},
+			"Name": "UE4MuseumGuideAssist",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
 		{
 			"Name": "PixelStreaming",
 			"Enabled": true
+		},
+		{
+			"Name": "VlcMedia",
+			"Enabled": false
 		}
 	]
 }
