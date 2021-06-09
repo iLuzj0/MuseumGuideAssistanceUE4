@@ -1,4 +1,7 @@
 # MuseumGuideAssistanceUE4
+# Autor
+Dominik Tekiela
+Uniwersytet Pedagogiczny, grupa L4
 # Wstęp
 Projekt utworzony w ramach zajęć inżynierskich. Współdziała z programem na komputer stacjonarny - https://github.com/iLuzj0/MuseumGuideAssistance
 
